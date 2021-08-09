@@ -1,4 +1,5 @@
 ## Hello, my name is Jaime Gouveia i'm brazilian!
+  - :mortar_board: Studying Information System at UFC - Campus Quixadá.
  <div>
   <a href="https://github.com/jaimegsn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimegsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,7 +9,10 @@
   <img align="center" alt="Jaime-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jaime-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jaime-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jaime-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg">
   <img align="right" alt="Jaime-Gif" height="200" width="200" src="/media/hacking.gif">
+
+  
 </div>
   
   ##
