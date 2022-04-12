@@ -1,5 +1,7 @@
-## Hello, my name is Jaime Gouveia i'm brazilian!
-  - :mortar_board: Studying Information System at UFC - Campus Quixadá.
+## Olá, meu nome é Jaime Neto
+- 🎓 Aluno de Sistemas de Informação | UFC - Campus Quixadá
+- Dev Full Stack
+- Python para Análise de Dados e I.A
  <div>
   <a href="https://github.com/jaimegsn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimegsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
