@@ -2,8 +2,6 @@
 
 <div align="center">
 Dev Fullstack
-    
-Entusiasta em Java e JavaScript
 </div>
 
 ---
