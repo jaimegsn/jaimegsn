@@ -12,12 +12,11 @@ Dev Fullstack
     </a>
 </div>
 
-Olá meu nome é Jaime Gouveia de Souza Neto, porém pode me chamar apenas de Jaime,
-minha trajetória no mundo da tecnologia começou em 2015 onde eu ingressei em uma escola profissionalizante
-de Quixadá-CE chamada EEEP Maria Cavalcante Costa, lá eu aprendi os fundamentos de programação em java
-que foram reforçados quando eu entrei no curso de Sistemas de Informação na UFC de Quixadá-CE,
-desde então fui conhecendo várias tecnologias, mas as que mais me indetifiquei foi as de desenvolvimento web,
-então atualmente eu venho estudando e me aprofundando em desenvolvimento fullstack
+Olá meu nome é Jaime Gouveia de Souza Neto, e minha trajetória no mundo da tecnologia começou em 2015 
+onde eu ingressei em uma escola profissionalizante de Quixadá-CE chamada EEEP Maria Cavalcante Costa, 
+lá eu aprendi os fundamentos de programação em java que foram reforçados quando eu entrei no curso de 
+Sistemas de Informação na UFC de Quixadá-CE, desde então fui conhecendo várias tecnologias, mas as que mais me 
+indetifiquei foi as de desenvolvimento web, então atualmente eu venho estudando e me aprofundando em desenvolvimento fullstack
 
 [Meu curriculo](https://www.canva.com/design/DAFHoS6Yfkk/b_Df4_qIvxSDDIbCwLXb9g/view?utm_content=DAFHoS6Yfkk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 📄
 
