@@ -21,6 +21,7 @@ indetifiquei foi as de desenvolvimento web, então atualmente eu venho estudando
 [Meu curriculo](https://www.canva.com/design/DAFHoS6Yfkk/b_Df4_qIvxSDDIbCwLXb9g/view?utm_content=DAFHoS6Yfkk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 📄
 
 <hr>
+
 [Jornada FullStack](https://github.com/jaimegsn/MyJourneyFullStack/blob/main/README.md): Esse repositório tem como propósito documentar o meu caminho ao desenvolvimento full-stack
 
 <div> 
