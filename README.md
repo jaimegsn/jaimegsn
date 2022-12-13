@@ -6,11 +6,11 @@ Dev Fullstack
 
 ---
 
-<div align="right">
+<!--<div align="right">
      <a href="https://github.com/jaimegsn">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegsn&layout=compact&langs_count=7&theme=dracula" align="right"/>
     </a>
-</div>
+</div>-->
 
 Olá meu nome é Jaime Gouveia de Souza Neto, e minha trajetória no mundo da tecnologia começou em 2015 
 onde eu ingressei em uma escola profissionalizante de Quixadá-CE chamada EEEP Maria Cavalcante Costa, 
