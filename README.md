@@ -18,7 +18,7 @@ lá eu aprendi os fundamentos de programação em java que foram reforçados qua
 Sistemas de Informação na UFC de Quixadá-CE, desde então fui conhecendo várias tecnologias, mas as que mais me 
 indetifiquei foi as de desenvolvimento web, então atualmente eu venho estudando e me aprofundando em desenvolvimento fullstack
 
-[Meu curriculo](https://www.canva.com/design/DAFHoS6Yfkk/b_Df4_qIvxSDDIbCwLXb9g/view?utm_content=DAFHoS6Yfkk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) 📄
+[Meu curriculo](https://www.canva.com/design/DAFUp817juA/YCd6jF0c4R6PJgLmAWeGWA/view?utm_content=DAFUp817juA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📄
 
 <hr>
 
