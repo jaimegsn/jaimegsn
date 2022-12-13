@@ -1,7 +1,7 @@
 <h1 align="center"> Jaime Gouveia de Souza Neto </h1>
 
 <div align="center">
-Dev Fullstack
+Desenvolvedor
 </div>
 
 ---
