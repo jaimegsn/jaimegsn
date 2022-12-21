@@ -22,7 +22,7 @@ indetifiquei foi as de desenvolvimento web, então atualmente eu venho estudando
 
 <hr>
 
-[Jornada FullStack](https://github.com/jaimegsn/MyJourneyFullStack/blob/main/README.md): Esse repositório tem como propósito documentar o meu caminho ao desenvolvimento full-stack
+[Jornada FullStack (In Progress)](https://github.com/jaimegsn/MyJourneyFullStack/blob/main/README.md): Esse repositório tem como propósito documentar o meu caminho ao desenvolvimento full-stack
 
 <div> 
   <a href="https://instagram.com/jaimegsn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
