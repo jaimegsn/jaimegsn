@@ -1,11 +1,3 @@
-<h1 align="center"> Jaime Gouveia de Souza Neto </h1>
-
-<div align="center">
-Desenvolvedor
-</div>
-
----
-
 <!--<div align="right">
      <a href="https://github.com/jaimegsn">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegsn&layout=compact&langs_count=7&theme=dracula" align="right"/>
