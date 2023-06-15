@@ -9,13 +9,13 @@ onde eu ingressei em uma escola profissionalizante de Quixadá-CE chamada EEEP M
 lá eu aprendi os fundamentos de programação em java que foram reforçados quando eu entrei no curso de 
 Sistemas de Informação na UFC de Quixadá-CE, desde então fui conhecendo várias tecnologias, mas as que mais me 
 indetifiquei foi as de desenvolvimento web, então atualmente eu venho estudando e me aprofundando em desenvolvimento fullstack
-
+<!--
 [Meu curriculo](https://www.canva.com/design/DAFUp817juA/YCd6jF0c4R6PJgLmAWeGWA/view?utm_content=DAFUp817juA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📄
 
 <hr>
 
 [Jornada FullStack (In Progress)](https://github.com/jaimegsn/MyJourneyFullStack/blob/main/README.md): Esse repositório tem como propósito documentar o meu caminho ao desenvolvimento full-stack
-
+-->
 <div> 
   <a href="https://instagram.com/jaimegsn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <!-- <a href="https://discord.gg/..." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
