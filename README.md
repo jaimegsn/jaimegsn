@@ -1,29 +1,38 @@
-<!--<div align="right">
-     <a href="https://github.com/jaimegsn">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegsn&layout=compact&langs_count=7&theme=dracula" align="right"/>
+<div>
+    <!--<a target='_blank' href="https://twitch.tv/">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    </a>-->
+    <a target='_blank' href="https://twitter.com/jaimegsn">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-</div>-->
-
-Olá meu nome é Jaime Gouveia de Souza Neto, e minha trajetória no mundo da tecnologia começou em 2015 
-onde eu ingressei em uma escola profissionalizante de Quixadá-CE chamada EEEP Maria Cavalcante Costa, 
-lá eu aprendi os fundamentos de programação em java que foram reforçados quando eu entrei no curso de 
-Sistemas de Informação na UFC de Quixadá-CE, desde então fui conhecendo várias tecnologias, mas as que mais me 
-indetifiquei foi as de desenvolvimento web, então atualmente eu venho estudando e me aprofundando em desenvolvimento fullstack
-<!--
-[Meu curriculo](https://www.canva.com/design/DAFUp817juA/YCd6jF0c4R6PJgLmAWeGWA/view?utm_content=DAFUp817juA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📄
-
-<hr>
-
-[Jornada FullStack (In Progress)](https://github.com/jaimegsn/MyJourneyFullStack/blob/main/README.md): Esse repositório tem como propósito documentar o meu caminho ao desenvolvimento full-stack
--->
-<div> 
-  <a href="https://instagram.com/jaimegsn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <!-- <a href="https://discord.gg/..." target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:jaimegsn@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaime-neto-bb7872211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<!--  ![Snake animation](https://github.com/jaimegsn/jaimegsn/blob/output/github-contribution-grid-snake.svg) -->
- 
+    <a target='_blank' href="https://instagram.com/jaimegsn">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/jaimegsn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <!--<a target='_blank' href="https://dev.to/">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>-->
+    <!--<a target='_blank' href="https://youtube.com/">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>-->
 </div>
 
-----
+## Bem vindo a meu perfil
+
+Olá meu nome é Jaime, e minha trajetória no mundo da tecnologia começou em 2015 onde eu ingressei em uma escola profissionalizante de Quixadá-CE chamada EEEP Maria Cavalcante Costa, lá eu aprendi os fundamentos de programação em java que foram reforçados quando eu entrei no curso de Sistemas de Informação na UFC de Quixadá-CE, desde então fui conhecendo e me aprofundando em várias tecnologias.
+
+## Minhas informações
+
+* **Nome**: Jaime Gouveia de Souza Neto
+* **Idade**: 23
+* **Morando em**: Quixadá - CE, Brasil
+* **Stack**: Java - Spring Framework - Angular - SQL - AWS
+* **Universidade**: Universidade Federal do Ceará (UFC) - Campus Quixadá
+
+## Curiosidades sobre mim
+
+* Quando tinha uns 9 anos levantei um servidor de Tibia Pokemon com muito tutorial no youtube e com muita tentativa e erro, demorei umas 2 semanas mas no final consegui, só eu e um amigo meu jogava, foi meu primeiro contato com SQL sabia nem o que tava fazendo direito (jogamos só por 2 dias xD )
+* Ficaria falando facilmente 30 horas ininterruptas sobre One Piece
+* Já fiz capoeira por 1 ano quando criança mas o único movimento que me interessava era a "estrelinha" ou "estrela"
