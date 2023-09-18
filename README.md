@@ -28,7 +28,7 @@ Olá meu nome é Jaime, e minha trajetória no mundo da tecnologia começou em 2
 * **Nome**: Jaime Gouveia de Souza Neto
 * **Idade**: 23
 * **Morando em**: Quixadá - CE, Brasil
-* **Stack**: Java - Spring Framework - Angular - SQL - AWS
+* **Stack**: Java - Spring Framework - SQL - AWS
 * **Universidade**: Universidade Federal do Ceará (UFC) - Campus Quixadá
 
 ## Curiosidades sobre mim
