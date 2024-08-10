@@ -30,9 +30,3 @@ Olá meu nome é Jaime, e minha trajetória no mundo da tecnologia começou em 2
 * **Morando em**: Quixadá - CE, Brasil
 * **Stack**: Java - Spring Framework - SQL - AWS
 * **Universidade**: Universidade Federal do Ceará (UFC) - Campus Quixadá
-
-## Curiosidades sobre mim
-
-* Quando tinha uns 9 anos levantei um servidor de Tibia Pokemon com muito tutorial no youtube e com muita tentativa e erro, demorei umas 2 semanas mas no final consegui, só eu e um amigo meu jogava, foi meu primeiro contato com SQL sabia nem o que tava fazendo direito (jogamos só por 2 dias xD )
-* Ficaria falando facilmente 30 horas ininterruptas sobre One Piece
-* Já fiz capoeira por 1 ano quando criança mas o único movimento que me interessava era a "estrelinha" ou "estrela"
