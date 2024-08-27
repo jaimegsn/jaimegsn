@@ -23,6 +23,8 @@
 
 Olá meu nome é Jaime, e minha trajetória no mundo da tecnologia começou em 2015 onde eu ingressei em uma escola profissionalizante de Quixadá-CE chamada EEEP Maria Cavalcante Costa, lá eu aprendi os fundamentos de programação em java que foram reforçados quando eu entrei no curso de Sistemas de Informação na UFC de Quixadá-CE, desde então fui conhecendo e me aprofundando em várias tecnologias.
 
+[Meu Portfolio](https://jaimegsn.github.io/jaimedev/)
+
 ## Minhas informações
 
 * **Nome**: Jaime Gouveia de Souza Neto
